@@ -1,4 +1,7 @@
 ## Exercice
+
+J'ai choisi de travailler avec C++.
+
 ### Description:
 Écrivez un programme qui affiche les nombres de 1 à 100. Un nombre par ligne. Respectez les règles suivantes :
 * Si le nombre est divisible par 3 ou contient 3, écrire “Foo” à la place de 3.
